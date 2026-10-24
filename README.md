@@ -1,16 +1,13 @@
-## Hi there 👋
+# Frank Conroy
 
-<!--
-**frank-conroy/frank-conroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security leader in Austin, TX, focused on enterprise security engineering, detection and response, and incident response.
 
-Here are some ideas to get you started:
+**Currently:** Director, Enterprise Security Engineering at [Snyk](https://snyk.io). I lead 7 people across 3 teams and manage a $3M+ security budget.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Built Snyk's incident response program from scratch to 15-minute response and containment
+- Cut security alert noise by 95%
+- Owned corporate and physical security for Snyk's global offices
+
+**Background:** U.S. Army Signal Corps Captain (2004–2012), in cybersecurity since 2014. CISSP, GWAPT.
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/frankconroy3rd)
