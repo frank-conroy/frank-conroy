@@ -22,7 +22,10 @@ I lead 7 people across 3 teams in Enterprise Security Engineering and Incident R
 - [mcp-guard](https://github.com/frank-conroy/mcp-guard) — security scanner for AI agent and MCP server configs, with SARIF output
 - [ir-playbooks-as-code](https://github.com/frank-conroy/ir-playbooks-as-code) — IR playbooks as code mapped to NIST SP 800-61r3, with a tabletop generator
 - [detections-as-code](https://github.com/frank-conroy/detections-as-code) — tested Sigma detections for identity, SaaS, cloud, and AI-agent abuse, with ATT&CK coverage
+- [zero-day-radar](https://github.com/frank-conroy/zero-day-radar) — zero-day threat intel tracker using CISA KEV, NVD and EPSS, with a weekly executive brief
 
 **Background:** U.S. Army Signal Corps Captain, 2004–2012 (deployed 2009; led 25 soldiers). In cybersecurity since 2014. CISSP, GWAPT.
+
+**Lab & fun:** [honeypot-lab](https://github.com/frank-conroy/honeypot-lab) (containerized SSH honeypot with attacker map) and [homelab-soc](https://github.com/frank-conroy/homelab-soc) (one-command home SOC lab).
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/frankconroy3rd)
